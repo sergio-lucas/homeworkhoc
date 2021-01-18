@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Status:
-![CI/CD](https://github.com/sergio-lucas/homeworkhoc/workflows/CI/CD/badge.svg?branch=master&event=check_run)
+![CI/CD](https://github.com/sergio-lucas/homeworkhoc/workflows/CI/CD/badge.svg)
 
 ## Available Scripts
 
