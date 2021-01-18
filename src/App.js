@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from "react-dom";
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 const AlertsDom = document.querySelector(".alerts-list");
